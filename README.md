@@ -10,6 +10,7 @@ Pull-requests and feature-requests are welcomed.
 
 ##And Saucelab's giant data center of browsers
 ![saucelabs](https://saucelabs.com/images/features/browsers-platforms.jpg)
+Available platforms and browsers: https://saucelabs.com/platforms/
 
 ##To make browser screen shot comparisons simple!
 
